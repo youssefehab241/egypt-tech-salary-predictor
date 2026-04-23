@@ -1,0 +1,29 @@
+{
+    "best_model": "random_forest",
+    "metrics": {
+        "linear_regression": {
+            "MAE": 14528.04,
+            "RMSE": 24252.94,
+            "R2": -0.3518
+        },
+        "random_forest": {
+            "MAE": 12342.14,
+            "RMSE": 17349.86,
+            "R2": 0.3082
+        },
+        "gradient_boosting": {
+            "MAE": 12424.83,
+            "RMSE": 17606.29,
+            "R2": 0.2876
+        }
+    },
+    "dataset_shape_after_cleaning": {
+        "rows": 2373,
+        "columns": 3
+    },
+    "features": [
+        "job_title",
+        "experience_years"
+    ],
+    "target": "salary_mid"
+}
