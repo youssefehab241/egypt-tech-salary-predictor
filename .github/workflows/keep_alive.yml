@@ -11,4 +11,9 @@ jobs:
     steps:
       - name: Ping Streamlit app
         run: |
-          curl -I -L --max-time 60 "https://egypt-tech-salary-predictor-rwrrucbh4lypdqitofhabm.streamlit.app/"
+          curl -L --max-time 60 --retry 3 --retry-delay 5 \
+            -A "Mozilla/5.0" \
+            -o /dev/null \
+            -s \
+            -w "HTTP Status: %{http_code}\n" \
+            "https://egypt-tech-salary-predictor-rwrrucbh4lypdqitofhabm.streamlit.app/"
