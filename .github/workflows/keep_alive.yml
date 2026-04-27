@@ -1,19 +1,52 @@
-name: Keep Streamlit Awake
+name: Wake Up Streamlit
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
-  ping-app:
+  ping:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
-      - name: Ping Streamlit app
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install Playwright & Dependencies
         run: |
-          curl -L --max-time 60 --retry 3 --retry-delay 5 \
-            -A "Mozilla/5.0" \
-            -o /dev/null \
-            -s \
-            -w "HTTP Status: %{http_code}\n" \
-            "https://egypt-tech-salary-predictor-rwrrucbh4lypdqitofhabm.streamlit.app/"
+          npm install playwright
+          npx playwright install chromium --with-deps
+
+      - name: Visit App
+        run: |
+          node -e "
+          const { chromium } = require('playwright');
+          (async () => {
+            const browser = await chromium.launch({ headless: true });
+            const page = await browser.newPage();
+            console.log('Visiting app...');
+            try {
+              await page.goto('https://egypt-tech-salary-predictor-rwrrucbh4lypdqitofhabm.streamlit.app/', {
+                waitUntil: 'networkidle',
+                timeout: 60000
+              });
+
+              await new Promise(r => setTimeout(r, 15000));
+
+              const title = await page.title();
+              console.log('Successfully pinged. Page title:', title);
+            } catch (error) {
+              console.error('Failed to load page:', error.message);
+              process.exit(1);
+            } finally {
+              await browser.close();
+            }
+          })();
+          "
