@@ -1,0 +1,197 @@
+job_title,experience_years,salary_original,currency_detected,salary_mid,work_mode,city,source_name
+.net developer,1.0,15000,EGP,15000.0,Hybird,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,2.0,311050,EGP,311050.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,15000,EGP,15000.0,Hybird,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,2.0,30000,EGP,30000.0,Hybird,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,3.0,54000,EGP,54000.0,Hybird,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,9000,EGP,9000.0,Hybird,Benha,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,4.0,128000,EGP,128000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,6.0,60000,EGP,60000.0,Hybird,Dubai,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,3.0,45000,EGP,45000.0,Hybird,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,15000,EGP,15000.0,Hybird,"Maadi/Cairo , Ksa",Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,16000,EGP,16000.0,Hybird,Octobre,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,2.0,12000,EGP,12000.0,On Site,10Th Of Ramadan,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,7.0,37500,EGP,37500.0,On Site,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,151000,EGP,151000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,44500,EGP,44500.0,On Site,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,15000,EGP,15000.0,On Site,New Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,0.0,10000,EGP,10000.0,On Site,October,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,27000,EGP,27000.0,On Site,Smart Village,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,6.0,66400,EGP,66400.0,On Site,Dubai,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,2.0,38400,EGP,38400.0,On Site,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,37000,EGP,37000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,3.0,28500,EGP,28500.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,8000,EGP,8000.0,Remotley,Bahrain,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,2.0,82000,EGP,82000.0,Remotley,Dubai,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,4.0,72000,EGP,72000.0,Remotley,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,15000,EGP,15000.0,Remotley,Riyadh,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,1.0,12000,EGP,12000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,3.0,26000,EGP,26000.0,Remotley,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,4.0,60000,EGP,60000.0,Remotley,Usa,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,3.0,12000,EGP,12000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+.net developer,0.0,5500,EGP,5500.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+back end developer (ruby on rails),2.0,26000,EGP,26000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,1.0,94000,EGP,94000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,5.0,139000,EGP,139000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,1.0,37000,EGP,37000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,2.0,20000,EGP,20000.0,On Site,Makram,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,5.0,36000,EGP,36000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,1.0,42000,EGP,42000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,1.0,66000,EGP,66000.0,Remotley,Riyadh,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,0.0,22000,EGP,22000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer,2.0,20000,EGP,20000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer - django,3.0,53000,EGP,53000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer - django,0.0,15000,EGP,15000.0,Hybird,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer - django,1.0,39000,EGP,39000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend developer - django,2.0,70500,EGP,70500.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+backend java developer,1.0,25000,EGP,25000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+front end developer react,2.0,24000,EGP,24000.0,Hybird,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+front end developer react,1.0,9000,EGP,9000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+front end developer react,3.0,6000,EGP,6000.0,Remotley,Canada,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,225900,EGP,225900.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,7.0,30000,EGP,30000.0,Hybird,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,68000,EGP,68000.0,Hybird,Nasr City,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,4.0,18000,EGP,18000.0,Hybird,Shrouq,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,1.0,8000,EGP,8000.0,Hybird,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,91000,EGP,91000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,23000,EGP,23000.0,Hybird,Maadi,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,4.0,75000,EGP,75000.0,Hybird,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,31500,EGP,31500.0,On Site,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,156000,EGP,156000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,1.0,4000,EGP,4000.0,On Site,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,18000,EGP,18000.0,On Site,October,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,7.0,65000,EGP,65000.0,On Site,Smart Village,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,0.0,93000,EGP,93000.0,On Site,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,8000,EGP,8000.0,On Site,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,4.0,252000,EGP,252000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,18500,EGP,18500.0,On Site,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,1.0,67000,EGP,67000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,20000,EGP,20000.0,Remotley,"Cairo, Zamalic",Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,1.0,9000,EGP,9000.0,Remotley,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,1.0,8000,EGP,8000.0,Remotley,October,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,66000,EGP,66000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,4.0,72000,EGP,72000.0,Remotley,Dubai,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,4.0,84000,EGP,84000.0,Remotley,Istanbul,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,120000,EGP,120000.0,Remotley,Riyadh,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,36000,EGP,36000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,72000,EGP,72000.0,Remotley,California,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,1.0,8000,EGP,8000.0,Remotley,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,1.0,14000,EGP,14000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,3500,EGP,3500.0,Remotley,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,2.0,10000,EGP,10000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer,3.0,70000,EGP,70000.0,Remotley,Dubai,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer angular,3.0,55000,EGP,55000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer angular,3.0,7300,EGP,7300.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer vue.js,0.0,14000,EGP,14000.0,Hybird,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer vue.js,0.0,5000,EGP,5000.0,On Site,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer vue.js,2.0,7000,EGP,7000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer vue.js,2.0,48000,EGP,48000.0,Remotley,Jeddah,Kaggle_Web_Developers_Salaries_Egypt_2024
+frontend developer vue.js,3.0,36000,EGP,36000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack (java & react),2.0,15000,EGP,15000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net & angular,6.0,52000,EGP,52000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net & angular,2.0,12000,EGP,12000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net & angular,0.0,6000,EGP,6000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net & angular,2.0,24000,EGP,24000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net and react developer,1.0,8000,EGP,8000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,1.0,20000,EGP,20000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,3.0,15300,EGP,15300.0,Hybird,Kuwait,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,1.0,27000,EGP,27000.0,Hybird,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,1.0,21000,EGP,21000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,3.0,15000,EGP,15000.0,Remotley,Benha,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,1.0,12000,EGP,12000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,1.0,12000,EGP,12000.0,Remotley,Kuwait,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,3.0,120000,EGP,120000.0,Remotley,United Kingdom,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack .net developer,0.0,5000,EGP,5000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,2.0,95000,EGP,95000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,2.0,16000,EGP,16000.0,Hybird,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,3.0,46000,EGP,46000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,2.0,23000,EGP,23000.0,Hybird,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,1.0,11000,EGP,11000.0,On Site,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,3.0,146000,EGP,146000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,0.0,5000,EGP,5000.0,On Site,Tanta,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,8.0,7000,EGP,7000.0,Remotley,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,2.0,19000,EGP,19000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,7.0,42000,EGP,42000.0,Remotley,Kuwait,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,3.0,54000,EGP,54000.0,Remotley,Riyadh,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,3.0,23500,EGP,23500.0,Remotley,California,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,2.0,15000,EGP,15000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer,6.0,30000,EGP,30000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer .net & angular,2.0,39000,EGP,39000.0,Remotley,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack developer python,1.0,8000,EGP,8000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack java,6.0,22000,EGP,22000.0,Hybird,"Giza, Smart Village",Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack node angular,2.0,16000,EGP,16000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack node js developer,1.0,8000,EGP,8000.0,Remotley,California And Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack python and react,0.0,15000,EGP,15000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack web developer . net & angular,3.0,23500,EGP,23500.0,On Site,Maadi,Kaggle_Web_Developers_Salaries_Egypt_2024
+full stack(.net+ angular),2.0,15000,EGP,15000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+"full-stack (.net, react)",6.0,60000,EGP,60000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full-stack developer,2.0,25000,EGP,25000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full-stack developer,1.0,14000,EGP,14000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+full-stack developer,2.0,15000,EGP,15000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+full-stack developer (.net-angular),10.0,50000,EGP,50000.0,Hybird,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+fullstack developer (laravel & flutter),1.0,11000,EGP,11000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+fullstack developer laravel vue,1.0,8000,EGP,8000.0,On Site,Nasr City,Kaggle_Web_Developers_Salaries_Egypt_2024
+fullstack developer laravel vue,3.0,25000,EGP,25000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+"full-stack engineer(spring, react)",1.0,11000,EGP,11000.0,Hybird,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+fullstack intern - java & angular,1.0,12000,EGP,12000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+fullstack vue + python,1.0,20000,EGP,20000.0,Remotley,Texas,Kaggle_Web_Developers_Salaries_Egypt_2024
+gis frontend developer,4.0,12000,EGP,12000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+java backend,4.0,110000,EGP,110000.0,Hybird,Smart Village,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,1.0,81000,EGP,81000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,1.0,5000,EGP,5000.0,Hybird,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,1.0,38000,EGP,38000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,5.0,32000,EGP,32000.0,Hybird,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,1.0,37750,EGP,37750.0,On Site,Alexandria,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,0.0,50000,EGP,50000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,2.0,13000,EGP,13000.0,On Site,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,0.0,29000,EGP,29000.0,On Site,Assiut,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,1.0,29500,EGP,29500.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,0.0,12000,EGP,12000.0,On Site,"Cairo, Riyadh",Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,3.0,30000,EGP,30000.0,On Site,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,4.0,4000,EGP,4000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+java developer,2.0,28500,EGP,28500.0,Remotley,Smart Village,Kaggle_Web_Developers_Salaries_Egypt_2024
+java full stack developer,1.0,22000,EGP,22000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+java software engineer,2.0,70000,EGP,70000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+javascript developer,1.0,20000,EGP,20000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+javascript developer,3.0,30000,EGP,30000.0,On Site,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+javascript developer,1.0,24000,EGP,24000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+laravel backend developer,4.0,20000,EGP,20000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+laravel full stack developer,1.0,7000,EGP,7000.0,Hybird,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+mearn stack -front end developer,1.0,8000,EGP,8000.0,On Site,Aswan,Kaggle_Web_Developers_Salaries_Egypt_2024
+mern full stack developer,3.0,16000,EGP,16000.0,Hybird,October,Kaggle_Web_Developers_Salaries_Egypt_2024
+mern full stack developer,3.0,28000,EGP,28000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+netsuite technical developer (javascript developer),2.0,27000,EGP,27000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+node.js backend developer,1.0,15000,EGP,15000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,2.0,14000,EGP,14000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,1.0,7000,EGP,7000.0,Hybird,"Cairo, Maadi",Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,3.0,47000,EGP,47000.0,Hybird,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,2.0,85000,EGP,85000.0,On Site,Kafr El Sheikh,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,1.0,9000,EGP,9000.0,On Site,New Damietta,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,1.0,14000,EGP,14000.0,On Site,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,1.0,15000,EGP,15000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,2.0,10000,EGP,10000.0,Remotley,Dubai,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,4.0,82000,EGP,82000.0,Remotley,Jeddah,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,2.0,16000,EGP,16000.0,Remotley,un-known,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,1.0,15000,EGP,15000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+nodejs developer,1.0,6000,EGP,6000.0,Remotley,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,4.0,64000,EGP,64000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,10.0,100000,EGP,100000.0,On Site,El Doqy,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,2.0,20000,EGP,20000.0,On Site,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,0.0,15000,EGP,15000.0,On Site,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,1.0,11000,EGP,11000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,5.0,25000,EGP,25000.0,Remotley,Dubai,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,2.0,16000,EGP,16000.0,Remotley,Riyadh,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,0.0,9500,EGP,9500.0,Hybird,5Th Settelment,Kaggle_Web_Developers_Salaries_Egypt_2024
+php developer,5.0,48000,EGP,48000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+rust backend developer,0.0,8000,EGP,8000.0,Remotley,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+software engineer (backend java),1.0,24000,EGP,24000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+software engineer (full stack / .net),2.0,66000,EGP,66000.0,Remotley,Canada,Kaggle_Web_Developers_Salaries_Egypt_2024
+software engineer stack java,1.0,15000,EGP,15000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+teamlead backend developer php,3.0,15000,EGP,15000.0,On Site,Mansoura,Kaggle_Web_Developers_Salaries_Egypt_2024
+web developer,3.0,40000,EGP,40000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+web developer,2.0,10000,EGP,10000.0,Hybird,Giza,Kaggle_Web_Developers_Salaries_Egypt_2024
+web developer,0.0,5000,EGP,5000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+web developer,1.0,9000,EGP,9000.0,Remotley,Ksa,Kaggle_Web_Developers_Salaries_Egypt_2024
+wordpress developer,4.0,14000,EGP,14000.0,Hybird,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+wordpress developer,3.0,30000,EGP,30000.0,On Site,Cairo,Kaggle_Web_Developers_Salaries_Egypt_2024
+wordpress developer,3.0,40000,EGP,40000.0,Remotley,Uae,Kaggle_Web_Developers_Salaries_Egypt_2024

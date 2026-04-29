@@ -1,0 +1,322 @@
+job_title,experience_years,position_level_raw,main_tech_raw,salary_original,currency_original,currency_detected,salary_original_numeric,salary_mid,salary_date,source_name
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",12000.0,EGP - Egyptian Pound,EGP,12000.0,12000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",3000.0,USD - United States Dollar,USD,3000.0,150000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",18000.0,EGP - Egyptian Pound,EGP,18000.0,18000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",12.5,EGP - Egyptian Pound,EGP,12.5,12.5,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",15000.0,EGP - Egyptian Pound,EGP,15000.0,15000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",400.0,USD - United States Dollar,USD,400.0,20000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",50.0,EGP - Egyptian Pound,EGP,50.0,50.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",9000.0,EGP - Egyptian Pound,EGP,9000.0,9000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",600.0,USD - United States Dollar,USD,600.0,30000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+back end engineer,7.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",1200.0,USD - United States Dollar,USD,1200.0,60000.0,,Teammate_developers_2025
+full stack engineer,2.5,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1500.0,USD - United States Dollar,USD,1500.0,75000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",1.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+back end engineer,2.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",14400.0,EGP - Egyptian Pound,EGP,14400.0,14400.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1000.0,USD - United States Dollar,USD,1000.0,50000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",13000.0,EGP - Egyptian Pound,EGP,13000.0,13000.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",6000.0,EGP - Egyptian Pound,EGP,6000.0,6000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+full stack engineer,4.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1500.0,USD - United States Dollar,USD,1500.0,75000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",25.0,EGP - Egyptian Pound,EGP,25.0,25.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",9000.0,EGP - Egyptian Pound,EGP,9000.0,9000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",2100.0,USD - United States Dollar,USD,2100.0,105000.0,,Teammate_developers_2025
+full stack engineer,4.0,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1100.0,JD,JOD,1100.0,77000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",500.0,USD - United States Dollar,USD,500.0,25000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",16000.0,EGP - Egyptian Pound,EGP,16000.0,16000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",2000.0,USD - United States Dollar,USD,2000.0,100000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",250.0,USD - United States Dollar,USD,250.0,12500.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",13000.0,EGP - Egyptian Pound,EGP,13000.0,13000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",8000.0,EGP - Egyptian Pound,EGP,8000.0,8000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",80000.0,Rupees,RUPEES,80000.0,80000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",12000.0,EGP - Egyptian Pound,EGP,12000.0,12000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",900.0,USD - United States Dollar,USD,900.0,45000.0,,Teammate_developers_2025
+back end engineer,1.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",1000.0,USD - United States Dollar,USD,1000.0,50000.0,,Teammate_developers_2025
+full stack engineer,6.0,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",2600.0,USD - United States Dollar,USD,2600.0,130000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",4.0,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",70000.0,EGP - Egyptian Pound,EGP,70000.0,70000.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",344.0,USD - United States Dollar,USD,344.0,17200.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",23.0,EGP - Egyptian Pound,EGP,23.0,23.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",14000.0,EGP - Egyptian Pound,EGP,14000.0,14000.0,,Teammate_developers_2025
+full stack engineer,7.0,tech / team lead,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",80000.0,EGP - Egyptian Pound,EGP,80000.0,80000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",8000.0,EGP - Egyptian Pound,EGP,8000.0,8000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",3500.0,EGP - Egyptian Pound,EGP,3500.0,3500.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",1.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",17000.0,EGP - Egyptian Pound,EGP,17000.0,17000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+back end engineer,4.0,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",750.0,USD - United States Dollar,USD,750.0,37500.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",2400.0,USD - United States Dollar,USD,2400.0,120000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",6500.0,EGP - Egyptian Pound,EGP,6500.0,6500.0,,Teammate_developers_2025
+full stack engineer,2.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",2.0,AED - United Arab Emirates Dirham,AED,2.0,27.2,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",12000.0,EGP - Egyptian Pound,EGP,12000.0,12000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",18000.0,EGP - Egyptian Pound,EGP,18000.0,18000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",2.5,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",30.0,EGP - Egyptian Pound,EGP,30.0,30.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",2.5,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",1850.0,USD - United States Dollar,USD,1850.0,92500.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",35000.0,EGP - Egyptian Pound,EGP,35000.0,35000.0,,Teammate_developers_2025
+front end engineer,7.0,senior,"Front end (Angular, React, Vue, ect..)",26000.0,EGP - Egyptian Pound,EGP,26000.0,26000.0,,Teammate_developers_2025
+full stack engineer,4.0,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",39000.0,EGP - Egyptian Pound,EGP,39000.0,39000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",21000.0,EGP - Egyptian Pound,EGP,21000.0,21000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",719.0,EUR - Euro,EUR,719.0,39545.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",13000.0,EGP - Egyptian Pound,EGP,13000.0,13000.0,,Teammate_developers_2025
+back end engineer,15.0,tech / team lead,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",78000.0,EGP - Egyptian Pound,EGP,78000.0,78000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",9000.0,EGP - Egyptian Pound,EGP,9000.0,9000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",19250.0,EGP - Egyptian Pound,EGP,19250.0,19250.0,,Teammate_developers_2025
+front end engineer,2.5,junior,"Front end (Angular, React, Vue, ect..)",600.0,USD - United States Dollar,USD,600.0,30000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",17000.0,EGP - Egyptian Pound,EGP,17000.0,17000.0,,Teammate_developers_2025
+back end engineer,6.0,tech / team lead,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",70500.0,EGP - Egyptian Pound,EGP,70500.0,70500.0,,Teammate_developers_2025
+back end engineer,7.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",1900.0,USD - United States Dollar,USD,1900.0,95000.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",4000.0,EGP - Egyptian Pound,EGP,4000.0,4000.0,,Teammate_developers_2025
+back end engineer,7.0,tech / team lead,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",5000.0,USD - United States Dollar,USD,5000.0,250000.0,,Teammate_developers_2025
+front end engineer,7.0,mid sernior,"Front end (Angular, React, Vue, ect..)",12.0,EGP - Egyptian Pound,EGP,12.0,12.0,,Teammate_developers_2025
+back end engineer,4.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",72000.0,EGP - Egyptian Pound,EGP,72000.0,72000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",15000.0,EGP - Egyptian Pound,EGP,15000.0,15000.0,,Teammate_developers_2025
+full stack engineer,6.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",75000.0,EGP - Egyptian Pound,EGP,75000.0,75000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",360.0,USD - United States Dollar,USD,360.0,18000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",260.0,USD - United States Dollar,USD,260.0,13000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+full stack engineer,7.0,tech / team lead,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",65000.0,EGP - Egyptian Pound,EGP,65000.0,65000.0,,Teammate_developers_2025
+full stack engineer,6.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1200.0,EUR - Euro,EUR,1200.0,66000.0,,Teammate_developers_2025
+back end engineer,4.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",3000.0,USD - United States Dollar,USD,3000.0,150000.0,,Teammate_developers_2025
+full stack engineer,6.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1200.0,USD - United States Dollar,USD,1200.0,60000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",400.0,USD - United States Dollar,USD,400.0,20000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",23000.0,EGP - Egyptian Pound,EGP,23000.0,23000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",2000.0,USD - United States Dollar,USD,2000.0,100000.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",14000.0,EGP - Egyptian Pound,EGP,14000.0,14000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",850.0,USD - United States Dollar,USD,850.0,42500.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",9000.0,EGP - Egyptian Pound,EGP,9000.0,9000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+front end engineer,7.0,senior,"Front end (Angular, React, Vue, ect..)",2300.0,USD - United States Dollar,USD,2300.0,115000.0,,Teammate_developers_2025
+back end engineer,7.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",5500.0,USD - United States Dollar,USD,5500.0,275000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+back end engineer,1.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",22000.0,EGP - Egyptian Pound,EGP,22000.0,22000.0,,Teammate_developers_2025
+full stack engineer,1.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",700.0,USD - United States Dollar,USD,700.0,35000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",6.0,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",1700.0,USD - United States Dollar,USD,1700.0,85000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",9000.0,EGP - Egyptian Pound,EGP,9000.0,9000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",13000.0,EGP - Egyptian Pound,EGP,13000.0,13000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",6.0,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+front end engineer,2.5,senior,"Front end (Angular, React, Vue, ect..)",1700.0,USD - United States Dollar,USD,1700.0,85000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",11000.0,EGP - Egyptian Pound,EGP,11000.0,11000.0,,Teammate_developers_2025
+back end engineer,4.0,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",1000.0,USD - United States Dollar,USD,1000.0,50000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",31000.0,EGP - Egyptian Pound,EGP,31000.0,31000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",350.0,USD - United States Dollar,USD,350.0,17500.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",41000.0,EGP - Egyptian Pound,EGP,41000.0,41000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",5000.0,EGP - Egyptian Pound,EGP,5000.0,5000.0,,Teammate_developers_2025
+full stack engineer,7.0,software architect,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",10000.0,USD - United States Dollar,USD,10000.0,500000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",1.5,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",18000.0,EGP - Egyptian Pound,EGP,18000.0,18000.0,,Teammate_developers_2025
+back end engineer,4.0,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",39300.0,EGP - Egyptian Pound,EGP,39300.0,39300.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",5000.0,USD - United States Dollar,USD,5000.0,250000.0,,Teammate_developers_2025
+back end engineer,4.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+full stack engineer,6.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",65000.0,EGP - Egyptian Pound,EGP,65000.0,65000.0,,Teammate_developers_2025
+back end engineer,7.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",55000.0,EGP - Egyptian Pound,EGP,55000.0,55000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",500.0,USD - United States Dollar,USD,500.0,25000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",1.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",11000.0,EGP - Egyptian Pound,EGP,11000.0,11000.0,,Teammate_developers_2025
+back end engineer,4.0,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",800.0,USD - United States Dollar,USD,800.0,40000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",0.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",12000.0,EGP - Egyptian Pound,EGP,12000.0,12000.0,,Teammate_developers_2025
+full stack engineer,6.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",85000.0,EGP - Egyptian Pound,EGP,85000.0,85000.0,,Teammate_developers_2025
+front end engineer,7.0,senior,"Front end (Angular, React, Vue, ect..)",67000.0,EGP - Egyptian Pound,EGP,67000.0,67000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",6.0,EGP - Egyptian Pound,EGP,6.0,6.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",8000.0,EGP - Egyptian Pound,EGP,8000.0,8000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",27000.0,EGP - Egyptian Pound,EGP,27000.0,27000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",1020.0,USD - United States Dollar,USD,1020.0,51000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",8000.0,EGP - Egyptian Pound,EGP,8000.0,8000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1100.0,USD - United States Dollar,USD,1100.0,55000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",2.5,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",2.5,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",700.0,USD - United States Dollar,USD,700.0,35000.0,,Teammate_developers_2025
+full stack engineer,1.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1050.0,USD - United States Dollar,USD,1050.0,52500.0,,Teammate_developers_2025
+back end engineer,6.0,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",15900.0,EGP - Egyptian Pound,EGP,15900.0,15900.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",41480.0,EGP - Egyptian Pound,EGP,41480.0,41480.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",14000.0,EGP - Egyptian Pound,EGP,14000.0,14000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",550.0,USD - United States Dollar,USD,550.0,27500.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",31000.0,EGP - Egyptian Pound,EGP,31000.0,31000.0,,Teammate_developers_2025
+full stack engineer,6.0,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",650.0,USD - United States Dollar,USD,650.0,32500.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",74000.0,EGP - Egyptian Pound,EGP,74000.0,74000.0,,Teammate_developers_2025
+back end engineer,2.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",16000.0,EGP - Egyptian Pound,EGP,16000.0,16000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",7.0,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",1760.0,USD - United States Dollar,USD,1760.0,88000.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",2800.0,USD - United States Dollar,USD,2800.0,140000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+full stack engineer,4.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",60000.0,EGP - Egyptian Pound,EGP,60000.0,60000.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",35000.0,EGP - Egyptian Pound,EGP,35000.0,35000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",3200.0,USD - United States Dollar,USD,3200.0,160000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",68000.0,EGP - Egyptian Pound,EGP,68000.0,68000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",900.0,USD - United States Dollar,USD,900.0,45000.0,,Teammate_developers_2025
+full stack engineer,4.0,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+full stack engineer,4.0,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",56000.0,EGP - Egyptian Pound,EGP,56000.0,56000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",800.0,USD - United States Dollar,USD,800.0,40000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",35000.0,EGP - Egyptian Pound,EGP,35000.0,35000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",4.0,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",1500.0,USD - United States Dollar,USD,1500.0,75000.0,,Teammate_developers_2025
+back end engineer,1.5,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+full stack engineer,2.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",23000.0,EGP - Egyptian Pound,EGP,23000.0,23000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",900.0,USD - United States Dollar,USD,900.0,45000.0,,Teammate_developers_2025
+back end engineer,6.0,tech / team lead,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",3100.0,USD - United States Dollar,USD,3100.0,155000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",14300.0,EGP - Egyptian Pound,EGP,14300.0,14300.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",0.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",4000.0,EGP - Egyptian Pound,EGP,4000.0,4000.0,,Teammate_developers_2025
+full stack engineer,4.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",2175.0,EUR - Euro,EUR,2175.0,119625.0,,Teammate_developers_2025
+full stack engineer,4.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",27500.0,EGP - Egyptian Pound,EGP,27500.0,27500.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",7500.0,EGP - Egyptian Pound,EGP,7500.0,7500.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",354.0,USD - United States Dollar,USD,354.0,17700.0,,Teammate_developers_2025
+front end engineer,2.5,junior,"Front end (Angular, React, Vue, ect..)",45000.0,SAR - Saudi Riyal,SAR,45000.0,585000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",22000.0,EGP - Egyptian Pound,EGP,22000.0,22000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",45000.0,EGP - Egyptian Pound,EGP,45000.0,45000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",10500.0,EGP - Egyptian Pound,EGP,10500.0,10500.0,,Teammate_developers_2025
+front end engineer,7.0,senior,"Front end (Angular, React, Vue, ect..)",1200.0,USD - United States Dollar,USD,1200.0,60000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",0.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",0.0,Fresh Graduate ,FRESH GRADUATE,0.0,0.0,,Teammate_developers_2025
+front end engineer,7.0,tech / team lead,"Front end (Angular, React, Vue, ect..)",100000.0,EGP - Egyptian Pound,EGP,100000.0,100000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",22000.0,EGP - Egyptian Pound,EGP,22000.0,22000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",500.0,USD - United States Dollar,USD,500.0,25000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",38000.0,EGP - Egyptian Pound,EGP,38000.0,38000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",4.0,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",22500.0,EGP - Egyptian Pound,EGP,22500.0,22500.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",16.0,EGP - Egyptian Pound,EGP,16.0,16.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",28500.0,EGP - Egyptian Pound,EGP,28500.0,28500.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",1.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+front end engineer,2.5,junior,"Front end (Angular, React, Vue, ect..)",805.0,USD - United States Dollar,USD,805.0,40250.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",300.0,USD - United States Dollar,USD,300.0,15000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",46000.0,EGP - Egyptian Pound,EGP,46000.0,46000.0,,Teammate_developers_2025
+back end engineer,7.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",2400.0,USD - United States Dollar,USD,2400.0,120000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",0.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",8000.0,EGP - Egyptian Pound,EGP,8000.0,8000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",4.0,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",50000.0,EGP - Egyptian Pound,EGP,50000.0,50000.0,,Teammate_developers_2025
+back end engineer,7.0,engineering manager,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",135.0,EGP - Egyptian Pound,EGP,135.0,135.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1000.0,USD - United States Dollar,USD,1000.0,50000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",23000.0,EGP - Egyptian Pound,EGP,23000.0,23000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",13.0,EGP - Egyptian Pound,EGP,13.0,13.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",8000.0,EGP - Egyptian Pound,EGP,8000.0,8000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",600.0,OMR,OMR,600.0,600.0,,Teammate_developers_2025
+back end engineer,4.0,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",38000.0,EGP - Egyptian Pound,EGP,38000.0,38000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",1.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",800.0,USD - United States Dollar,USD,800.0,40000.0,,Teammate_developers_2025
+back end engineer,6.0,tech / team lead,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",90.0,EGP - Egyptian Pound,EGP,90.0,90.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",70500.0,EGP - Egyptian Pound,EGP,70500.0,70500.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",4.0,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",1200.0,USD - United States Dollar,USD,1200.0,60000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",18000.0,EGP - Egyptian Pound,EGP,18000.0,18000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",15000.0,EGP - Egyptian Pound,EGP,15000.0,15000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",1.5,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",15.0,EGP - Egyptian Pound,EGP,15.0,15.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",18000.0,SAR - Saudi Riyal,SAR,18000.0,234000.0,,Teammate_developers_2025
+full stack engineer,1.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",36000.0,EGP - Egyptian Pound,EGP,36000.0,36000.0,,Teammate_developers_2025
+full stack engineer,4.0,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",28000.0,EGP - Egyptian Pound,EGP,28000.0,28000.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",21000.0,SAR - Saudi Riyal,SAR,21000.0,273000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",520.0,USD - United States Dollar,USD,520.0,26000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",35000.0,EGP - Egyptian Pound,EGP,35000.0,35000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",30.0,EGP - Egyptian Pound,EGP,30.0,30.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",16000.0,EGP - Egyptian Pound,EGP,16000.0,16000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",14000.0,EGP - Egyptian Pound,EGP,14000.0,14000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",12000.0,EGP - Egyptian Pound,EGP,12000.0,12000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",950.0,USD - United States Dollar,USD,950.0,47500.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",650.0,USD - United States Dollar,USD,650.0,32500.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",11070.0,EGP - Egyptian Pound,EGP,11070.0,11070.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",4.0,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",2000.0,USD - United States Dollar,USD,2000.0,100000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",15000.0,EGP - Egyptian Pound,EGP,15000.0,15000.0,,Teammate_developers_2025
+back end engineer,14.0,tech / team lead,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",1027.0,USD - United States Dollar,USD,1027.0,51350.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",12000.0,EGP - Egyptian Pound,EGP,12000.0,12000.0,,Teammate_developers_2025
+full stack engineer,2.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",22000.0,EGP - Egyptian Pound,EGP,22000.0,22000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",20500.0,EGP - Egyptian Pound,EGP,20500.0,20500.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",53000.0,EGP - Egyptian Pound,EGP,53000.0,53000.0,,Teammate_developers_2025
+full stack engineer,20.0,it project manager,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+full stack engineer,4.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",0.0,USD - United States Dollar,USD,0.0,0.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",2000.0,USD - United States Dollar,USD,2000.0,100000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",80000.0,EGP - Egyptian Pound,EGP,80000.0,80000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",63000.0,EGP - Egyptian Pound,EGP,63000.0,63000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",7000.0,EGP - Egyptian Pound,EGP,7000.0,7000.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",1000.0,USD - United States Dollar,USD,1000.0,50000.0,,Teammate_developers_2025
+full stack engineer,2.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+back end engineer,6.0,tech / team lead,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",75000.0,EGP - Egyptian Pound,EGP,75000.0,75000.0,,Teammate_developers_2025
+front end engineer,2.5,senior,"Front end (Angular, React, Vue, ect..)",800.0,USD - United States Dollar,USD,800.0,40000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",32000.0,EGP - Egyptian Pound,EGP,32000.0,32000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",400.0,USD - United States Dollar,USD,400.0,20000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",26000.0,EGP - Egyptian Pound,EGP,26000.0,26000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",19000.0,EGP - Egyptian Pound,EGP,19000.0,19000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",18000.0,EGP - Egyptian Pound,EGP,18000.0,18000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",2.5,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",33000.0,EGP - Egyptian Pound,EGP,33000.0,33000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",18500.0,EGP - Egyptian Pound,EGP,18500.0,18500.0,,Teammate_developers_2025
+full stack engineer,6.0,tech / team lead,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",100000.0,EGP - Egyptian Pound,EGP,100000.0,100000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",18000.0,EGP - Egyptian Pound,EGP,18000.0,18000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",15200.0,EGP - Egyptian Pound,EGP,15200.0,15200.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",28000.0,EGP - Egyptian Pound,EGP,28000.0,28000.0,,Teammate_developers_2025
+full stack engineer,6.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1000.0,EGP - Egyptian Pound,EGP,1000.0,1000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",4.0,junior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",5300.0,AED - United Arab Emirates Dirham,AED,5300.0,72080.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",22000.0,EGP - Egyptian Pound,EGP,22000.0,22000.0,,Teammate_developers_2025
+full stack engineer,1.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+full stack engineer,2.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",12000.0,EGP - Egyptian Pound,EGP,12000.0,12000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",2.5,senior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",23500.0,EGP - Egyptian Pound,EGP,23500.0,23500.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",56000.0,EGP - Egyptian Pound,EGP,56000.0,56000.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",15000.0,EGP - Egyptian Pound,EGP,15000.0,15000.0,,Teammate_developers_2025
+back end engineer,1.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",1490.0,USD - United States Dollar,USD,1490.0,74500.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",16500.0,EGP - Egyptian Pound,EGP,16500.0,16500.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",20.0,EGP - Egyptian Pound,EGP,20.0,20.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",59000.0,EGP - Egyptian Pound,EGP,59000.0,59000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",23.0,EGP - Egyptian Pound,EGP,23.0,23.0,,Teammate_developers_2025
+full stack engineer,7.0,tech / team lead,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",120000.0,EGP - Egyptian Pound,EGP,120000.0,120000.0,,Teammate_developers_2025
+front end engineer,6.0,tech / team lead,"Front end (Angular, React, Vue, ect..)",6000.0,SAR - Saudi Riyal,SAR,6000.0,78000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",700.0,USD - United States Dollar,USD,700.0,35000.0,,Teammate_developers_2025
+back end engineer,2.5,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",28600.0,EGP - Egyptian Pound,EGP,28600.0,28600.0,,Teammate_developers_2025
+back end engineer,7.0,engineering manager,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",35.0,SAR - Saudi Riyal,SAR,35.0,455.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",2200.0,USD - United States Dollar,USD,2200.0,110000.0,,Teammate_developers_2025
+"tester (manual, automation, api, selenium, playwright, ect..)",2.5,mid sernior,"Tester (Manual, Automation, API, Selenium, Playwright, ect..)",1200.0,USD - United States Dollar,USD,1200.0,60000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",500.0,USD - United States Dollar,USD,500.0,25000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",22.0,EGP - Egyptian Pound,EGP,22.0,22.0,,Teammate_developers_2025
+full stack engineer,4.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",1200.0,USD - United States Dollar,USD,1200.0,60000.0,,Teammate_developers_2025
+full stack engineer,0.5,undergraduate intern,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",4500.0,EGP - Egyptian Pound,EGP,4500.0,4500.0,,Teammate_developers_2025
+back end engineer,4.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",21000.0,SAR - Saudi Riyal,SAR,21000.0,273000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+full stack engineer,1.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",6700.0,EGP - Egyptian Pound,EGP,6700.0,6700.0,,Teammate_developers_2025
+back end engineer,1.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",700.0,USD - United States Dollar,USD,700.0,35000.0,,Teammate_developers_2025
+front end engineer,6.0,senior,"Front end (Angular, React, Vue, ect..)",2200.0,USD - United States Dollar,USD,2200.0,110000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",1500.0,USD - United States Dollar,USD,1500.0,75000.0,,Teammate_developers_2025
+back end engineer,4.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,7.0,mid sernior,"Front end (Angular, React, Vue, ect..)",3200.0,EUR - Euro,EUR,3200.0,176000.0,,Teammate_developers_2025
+front end engineer,2.5,mid sernior,"Front end (Angular, React, Vue, ect..)",14000.0,EGP - Egyptian Pound,EGP,14000.0,14000.0,,Teammate_developers_2025
+full stack engineer,4.0,senior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",90000.0,DZD - Algeria Dinars,DZD - ALGERIA DINARS,90000.0,90000.0,,Teammate_developers_2025
+front end engineer,11.0,senior team lead,"Front end (Angular, React, Vue, ect..)",85000.0,EGP - Egyptian Pound,EGP,85000.0,85000.0,,Teammate_developers_2025
+back end engineer,1.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",32000.0,EGP - Egyptian Pound,EGP,32000.0,32000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",28000.0,EGP - Egyptian Pound,EGP,28000.0,28000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",350000.0,PKR,PKR,350000.0,63000.0,,Teammate_developers_2025
+full stack engineer,0.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",21000.0,EGP - Egyptian Pound,EGP,21000.0,21000.0,,Teammate_developers_2025
+full stack engineer,2.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",20000.0,EGP - Egyptian Pound,EGP,20000.0,20000.0,,Teammate_developers_2025
+back end engineer,4.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",1600.0,USD - United States Dollar,USD,1600.0,80000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+back end engineer,1.5,"not promoted to mid senior yet, but i’m being treated as mid senior","Back End (Laravel, Spring Boot, Flask, Node, ect..)",60000.0,EGP - Egyptian Pound,EGP,60000.0,60000.0,,Teammate_developers_2025
+front end engineer,1.5,mid sernior,"Front end (Angular, React, Vue, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",40000.0,EGP - Egyptian Pound,EGP,40000.0,40000.0,,Teammate_developers_2025
+front end engineer,0.5,mid sernior,"Front end (Angular, React, Vue, ect..)",8000.0,EGP - Egyptian Pound,EGP,8000.0,8000.0,,Teammate_developers_2025
+back end engineer,2.5,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",35000.0,EGP - Egyptian Pound,EGP,35000.0,35000.0,,Teammate_developers_2025
+full stack engineer,2.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",25000.0,EGP - Egyptian Pound,EGP,25000.0,25000.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",23000.0,EGP - Egyptian Pound,EGP,23000.0,23000.0,,Teammate_developers_2025
+back end engineer,6.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",100000.0,EGP - Egyptian Pound,EGP,100000.0,100000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",19000.0,EGP - Egyptian Pound,EGP,19000.0,19000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",66000.0,EGP - Egyptian Pound,EGP,66000.0,66000.0,,Teammate_developers_2025
+back end engineer,4.0,senior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",55000.0,EGP - Egyptian Pound,EGP,55000.0,55000.0,,Teammate_developers_2025
+front end engineer,4.0,senior,"Front end (Angular, React, Vue, ect..)",55000.0,EGP - Egyptian Pound,EGP,55000.0,55000.0,,Teammate_developers_2025
+back end engineer,4.0,mid sernior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",30000.0,EGP - Egyptian Pound,EGP,30000.0,30000.0,,Teammate_developers_2025
+full stack engineer,2.5,mid sernior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",31000.0,EGP - Egyptian Pound,EGP,31000.0,31000.0,,Teammate_developers_2025
+front end engineer,1.5,junior,"Front end (Angular, React, Vue, ect..)",32700.0,EGP - Egyptian Pound,EGP,32700.0,32700.0,,Teammate_developers_2025
+back end engineer,0.5,junior,"Back End (Laravel, Spring Boot, Flask, Node, ect..)",250.0,USD - United States Dollar,USD,250.0,12500.0,,Teammate_developers_2025
+front end engineer,0.5,junior,"Front end (Angular, React, Vue, ect..)",11000.0,EGP - Egyptian Pound,EGP,11000.0,11000.0,,Teammate_developers_2025
+full stack engineer,1.5,junior,"Full Stack (MERN, MEAN, LAMP, JAMstack, ect..)",10000.0,EGP - Egyptian Pound,EGP,10000.0,10000.0,,Teammate_developers_2025
+front end engineer,4.0,mid sernior,"Front end (Angular, React, Vue, ect..)",700.0,USD - United States Dollar,USD,700.0,35000.0,,Teammate_developers_2025
