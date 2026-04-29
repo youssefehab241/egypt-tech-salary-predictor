@@ -11,7 +11,6 @@ from sklearn.metrics import mean_absolute_error, root_mean_squared_error, r2_sco
 # 1. LOAD & CLEAN
 df = pd.read_csv("data_sources/merged/ml_ready_salary_data_standardized.csv")
 
-# استخدم العمود الموحد فقط
 df = df.drop(columns=["job_title_clean"], errors="ignore")
 df = df.rename(columns={"job_title_standardized": "job_title_clean"})
 
@@ -21,7 +20,6 @@ df.loc[df["salary_target"] < 200, "salary_target"] *= 1000
 # Remove extreme noise
 df = df[(df["salary_target"] >= 5000) & (df["salary_target"] <= 250000)].copy()
 
-# احتفظ فقط بالأعمدة المطلوبة
 df = df[
     [
         "job_title_clean",

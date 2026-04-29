@@ -20,7 +20,6 @@ keywords = [
     "Backend", "Frontend", "Data Analyst", "Machine Learning", 
     "Software Engineer", "DevOps", "Full Stack", "Data Engineer", "Python"
 ]
-# تم التعديل لـ 50 صفحة لجمع داتا ضخمة
 pages_per_keyword = 50 
 
 csv_filename = "wuzzuf_big_data_complete.csv"
@@ -28,7 +27,6 @@ csv_filename = "wuzzuf_big_data_complete.csv"
 # ==========================================
 # 2. Resumable Scraping Logic
 # ==========================================
-# 🌟 السطر ده اللي كان ممسوح عندك وعمل الإيرور 🌟
 scraped_urls = set()
 
 if os.path.exists(csv_filename):
@@ -67,7 +65,6 @@ for keyword in keywords:
 
 all_new_links = list(set(all_new_links))
 
-# الفلترة الذكية (هنا كان بيحصل الإيرور لو scraped_urls مش متعرفة)
 all_new_links = [link for link in all_new_links if link not in scraped_urls]
 
 print(f"\n✅ Total NEW unique jobs to scrape deeply: {len(all_new_links)}")

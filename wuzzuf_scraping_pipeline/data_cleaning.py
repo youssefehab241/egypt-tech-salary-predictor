@@ -52,10 +52,7 @@ df_train['Min_Experience_Years'] = df_train['Experience'].apply(parse_experience
 df_train['Clean_Location'] = df_train['Location'].apply(lambda x: str(x).split(', ')[-1] if pd.notna(x) else "Unknown")
 df_train.dropna(subset=['Avg_Salary'], inplace=True)
 
-# ==========================================
-# 🌟 التعديل السحري: إزالة القيم الشاذة (Outliers) 🌟
-# هنستبعد أي راتب أقل من 3000 جنيه أو أعلى من 200,000 جنيه شهرياً
-# ==========================================
+
 initial_count = len(df_train)
 df_train = df_train[(df_train['Avg_Salary'] >= 3000) & (df_train['Avg_Salary'] <= 250000)]
 removed_outliers = initial_count - len(df_train)
